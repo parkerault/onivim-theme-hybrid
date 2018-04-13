@@ -6,7 +6,7 @@
     "background": "#e4e4e4",
     "foreground": "#000000",
 
-    "title.background": "#d0d0d0",
+    "title.background": "#e4e4e4",
     "title.foreground": "#000000",
 
     "editor.background": "#e4e4e4",
@@ -28,7 +28,7 @@
     "contextMenu.border": "#bcbcbc",
     "contextMenu.highlight": "#bcbcbc",
 
-    "statusBar.background": "#d0d0d0",
+    "statusBar.background": "#e4e4e4",
     "statusBar.foreground": "#000000",
 
     "highlight.mode.insert.background": "#5f5f00",
